@@ -1,0 +1,73 @@
+/*Mobile Display*/
+    
+* {
+    text-align: center;
+}
+
+body {
+    background-image: url(groceryshopping-ft-0318.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    padding: 0.5em;
+    font-family: 'Hachi Maru Pop', cursive;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: white;
+    color:  rgb(52, 52, 52);
+}
+
+h3 {
+    font-family: 'Yusei Magic', sans-serif;
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration: none;
+    padding: 1em;
+}
+
+form {
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#form2 {
+    margin-top: 2em;
+}
+
+.button {
+    width: 50%;
+    font-family: 'Cairo', sans-serif;
+    font-style: italic;
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+
+.button:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.button1 {
+    margin-top: 3em;
+}
+
+.button2 {
+    margin-top: 2em;
+}
+
+.addItems-input {
+    font-size: 2em;
+    color: rgb(52, 52, 52);
+    text-transform: uppercase;
+    background-color: transparent;
+    border: none;
+    border-bottom: 5px solid white;
+    width: 90%;
+}
