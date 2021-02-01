@@ -11,6 +11,10 @@ body {
     background-size: cover;
 }
 
+.carousel-inner { 
+    height: 600px; 
+} 
+
 h1 {
     padding: 0.5em;
     font-family: 'Hachi Maru Pop', cursive;
@@ -25,7 +29,6 @@ h3 {
     color: black;
     font-style: italic;
     text-decoration: underline;
-    text-decoration: none;
     padding: 1em;
 }
 
@@ -49,9 +52,9 @@ form {
 }
 
 .button:hover {
-    color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    color: #007bff;
+    background-color: #ffffff;
+    border-color: #a6cffa;
 }
 
 .button1 {
